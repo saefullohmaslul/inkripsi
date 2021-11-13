@@ -1,4 +1,4 @@
-package main
+package inkripsi
 
 import (
 	"crypto/aes"
